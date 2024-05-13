@@ -9,9 +9,9 @@ The datasets are sourced from the BraTS2020 challenge, comprising a diverse coll
 3) Jupyter Notebook
 4) Other necessary libraries and frameworks
 # Features
-Implementation of CycleGAN and DualGAN for MRI image style transfer.
-In-depth analysis and performance evaluation of GAN architectures.
-Visual representation of style transfer outcomes.
+1) Implementation of CycleGAN and DualGAN for MRI image style transfer.
+2) In-depth analysis and performance evaluation of GAN architectures.
+3) Visual representation of style transfer outcomes.
 # How to Use
 1) Clone the repository.
 2) Install the required dependencies.
